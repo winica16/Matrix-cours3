@@ -1,0 +1,16 @@
+.box {
+  border: 1px solid #000000;
+  width: 400px;
+  background: #FCB6D7;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+}
+#apropos{
+  background:#F4F4F4;
+  width:80%;
+  margin: 0 auto;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
